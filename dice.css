@@ -1,0 +1,27 @@
+.dice {
+    background-color: bisque;
+    font-size: xx-large;
+    border: 2px solid black;
+    padding: 15px;
+    border-radius: 3px;
+    width: 110px;
+    display: inline-block;
+}
+ 
+body {
+    display: block;
+    text-align: center;
+}
+
+#rollDice {
+    font-family: cursive;
+    height: 35px;
+    width: 60px;
+    font-size: larger;
+    color: darkblue;
+    border-radius: 20px;
+}
+
+#dicebar {
+    color: white;
+}
