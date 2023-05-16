@@ -1,0 +1,92 @@
+@font-face {
+    font-family: navbarfont;
+    src: url(fonts/FiraSans-Black.ttf);
+}
+
+@font-face {
+    font-family: headers;
+    src: url(fonts/FiraSans-SemiBold.ttf)
+}
+
+@font-face {
+    font-family: sub-headers;
+    src: url(fonts/FiraSans-SemiBoldItalic.ttf)
+}
+
+@font-face {
+    font-family: text;
+    src: url(fonts/FiraSans-LightItalic.ttf)
+}
+
+/* :root will apply the scope of variable to entire project*/
+:root {
+    font-size: 62.5%;
+    --site-color-1: orange;
+}
+
+h1, h2 {
+    font-size: 3.2rem;
+    line-height: 1;
+    font-weight: 900;
+    color: white;
+    font-family: headers, sans-serif;
+}
+
+p {
+    font-family: text;
+    font-size: 1.6rem;
+    line-height: 1.2;
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+    padding:0;
+    margin:0;
+}
+
+a {
+    cursor: pointer;
+}
+
+.header-main {
+    position: absolute;
+    z-index: 1000;
+    top: 0;
+    width: 100%;
+    height: 60px;
+    display: flex;
+}
+
+.nav {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+}
+
+.nav ul {
+    list-style: none;
+    height: 100%;
+}
+
+.nav ul li {
+    display: inline;
+    float: left;
+}
+
+.nav ul li a {
+    color: rgb(147, 139, 130);
+    padding: 0 10px 0 10px;
+    line-height: 60px;
+    font-family: 'navbarfont', sans-serif;
+    font-weight: 600;
+    font-size: medium;
+    text-decoration: none;
+    display: block;
+    height:100%;
+}
+
+.nav ul li a:hover {
+    color: rgb(179, 141, 72);
+}
+
