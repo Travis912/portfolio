@@ -34,7 +34,7 @@ main {
     width: 70%;
     margin-left: 10%;
     justify-content: center;
-    background-image: url(./img/png.png);
+    background-image: url(png.png);
     background-size: 50vh;
     background-repeat: no-repeat;
     background-position-y: 60%;
@@ -130,7 +130,7 @@ em {
     display: flex;
     position: absolute;
     margin-top: 130vh;
-    background-image: url(./img/darkBrick.jpg);
+    background-image: url(darkBrick.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
