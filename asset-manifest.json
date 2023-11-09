@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.05d94570.css",
+    "main.js": "/static/js/main.7690a615.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/navBackground.png": "/static/media/navBackground.09352a0e771509da8c75.png",
+    "static/media/midjourney1.png": "/static/media/midjourney1.b14b391af66c9cb83247.png",
+    "static/media/midjourney5.png": "/static/media/midjourney5.b84ca3bb77307982bb9c.png",
+    "static/media/mecopy.png": "/static/media/mecopy.3d128f650d132b69053b.png",
+    "static/media/connectFour.png": "/static/media/connectFour.95a27844feff0a123da0.png",
+    "static/media/wordle.png": "/static/media/wordle.e094fe431d2775e7699d.png",
+    "static/media/calculator.png": "/static/media/calculator.11bafab46bab4c73f573.png",
+    "index.html": "/index.html",
+    "main.05d94570.css.map": "/static/css/main.05d94570.css.map",
+    "main.7690a615.js.map": "/static/js/main.7690a615.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05d94570.css",
+    "static/js/main.7690a615.js"
+  ]
+}
